@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://flurach.herokuapp.com/">
-	<img width="200" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
+		<img width="200" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
 	</a>
 </p>
 
@@ -14,5 +14,3 @@
 	For enquiries, reach out at iamflurach@gmail.com or over on
 	<a href="https://twitter.com/iamflurach">Twitter</a>.
 </p>
-
-<h1 align="center"><i>Stay awesome!</i></h1>
