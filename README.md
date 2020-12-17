@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-	For enquiries, reach out at iamflurach@gmail.com or over on
-	<a href="https://twitter.com/iamflurach">Twitter</a>.
+	For enquiries, reach out at mbugrayildiz@outlook.com or over on
+	<a href="https://twitter.com/mbugrayildiz">Twitter</a>.
 </p>
