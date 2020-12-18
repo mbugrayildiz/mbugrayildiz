@@ -1,7 +1,5 @@
 <p align="center">
-	<a href="https://flurach.herokuapp.com/">
-		<img width="200" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
-	</a>
+	<img width="200" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
 </p>
 
 <h1 align="center"> Hi! :wave:</h1>
