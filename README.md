@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
+	<img width="300" src="https://github.com/flurach/flurach/raw/master/assets/banner.png"/>
 </p>
 
 <h1 align="center"> Hi! :wave:</h1>
